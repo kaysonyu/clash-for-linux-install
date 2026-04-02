@@ -88,7 +88,7 @@ $ clashsecret
 ```
 
 - 可通过浏览器打开 `Web` 控制台进行可视化操作，例如切换节点、查看日志等。
-- 默认使用 [zashboard](https://github.com/Zephyruso/zashboard) 作为控制台前端，如需更换可自行配置。
+- 默认使用 [MetaCubeXD](https://github.com/MetaCubeX/metacubexd) 作为控制台前端，并内置适用于二级代理路径的默认配置。
 - 若需将控制台暴露到公网，建议定期更换访问密钥，或通过 `SSH` 端口转发方式进行安全访问。
 
 ### `Mixin` 配置
@@ -176,7 +176,7 @@ bash uninstall.sh
 - [mihomo](https://github.com/MetaCubeX/mihomo)
 - [subconverter](https://github.com/tindy2013/subconverter)
 - [yq](https://github.com/mikefarah/yq)
-- [zashboard](https://github.com/Zephyruso/zashboard)
+- [MetaCubeXD](https://github.com/MetaCubeX/metacubexd)
 
 ## ⭐ Star History
 
